@@ -5,12 +5,9 @@ on: push
 jobs:
   print:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
-        working-directory: /
         
     steps:
-    # Runs a single command using the runners shell
+    - uses: actions/checkout@v2
+    
     - name: Print to file
       run: git log > CommitHistory.txt
