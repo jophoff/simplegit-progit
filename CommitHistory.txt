@@ -1,5 +1,98 @@
+commit 1589edef189f41b6be2f2ffdc04ef65c80c8d511
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 14:37:43 2021 +0100
+
+    Update CommitHistory.yml
+
+commit 593e08894801560e5c2a26320713165c4365960d
+Author: print <actions@users.noreply.github.com>
+Date:   Wed Sep 15 13:35:04 2021 +0000
+
+    CommitHistory.txt updated using GitHub Actions
+
 commit 74e514ba3daf5d508094dfc34edc79164dc6bb7b
 Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
 Date:   Wed Sep 15 14:34:44 2021 +0100
 
     Delete tmp.txt
+
+commit 908459ce8c42cf574866b748b6d7677c2c5a0af6
+Author: print <actions@users.noreply.github.com>
+Date:   Wed Sep 15 13:31:49 2021 +0000
+
+    CommitHistory.txt updated using GitHub Actions
+
+commit c9bd9e6378cf9bd44be41d6fc01ddd098bcb123f
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 14:31:33 2021 +0100
+
+    Update CommitHistory.yml
+
+commit 63ec146543192e4d3b5d7f5f299044135c20570e
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 14:28:00 2021 +0100
+
+    Update CommitHistory.yml
+
+commit a5583db3e91b39f63fb7afb6a413c23bc9ed590a
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 14:26:00 2021 +0100
+
+    Update CommitHistory.yml
+
+commit 95613b8a0c1dee442c4e1801a6e658ef24db1e10
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 14:21:13 2021 +0100
+
+    Update CommitHistory.yml
+
+commit 43f2fadc35630654f25575bbf91651551b4e6ff0
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 14:16:28 2021 +0100
+
+    Update CommitHistory.yml
+
+commit a02040f3e21bab5e004b2619c35007f798c05391
+Merge: 02399f4 a61ab7b
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 14:07:21 2021 +0100
+
+    Merge branch 'master' of https://github.com/jophoff/simplegit-progit
+
+commit 02399f48cdb939bc1547f6e3576c45436ef1e84f
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 14:07:11 2021 +0100
+
+    Create tmp.txt
+
+commit a61ab7b5db03960fbe8288afe0132ca9cac8aeb3
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 14:06:27 2021 +0100
+
+    Create CommitHistory.yml
+
+commit c8ef4122c13141219f8201e7768bd55d9850c71d
+Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
+Date:   Wed Sep 15 13:56:38 2021 +0100
+
+    Update simplegit.rb
+    
+    Comment added
+
+commit ca82a6dff817ec66f44342007202690a93763949
+Author: Scott Chacon <schacon@gmail.com>
+Date:   Mon Mar 17 21:52:11 2008 -0700
+
+    changed the verison number
+
+commit 085bb3bcb608e1e8451d4b2432f8ecbe6306e7e7
+Author: Scott Chacon <schacon@gmail.com>
+Date:   Sat Mar 15 16:40:33 2008 -0700
+
+    removed unnecessary test code
+
+commit a11bef06a3f659402fe7563abf99ad00de2209e6
+Author: Scott Chacon <schacon@gmail.com>
+Date:   Sat Mar 15 10:31:28 2008 -0700
+
+    first commit
