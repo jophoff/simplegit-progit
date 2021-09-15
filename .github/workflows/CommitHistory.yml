@@ -1,0 +1,12 @@
+name: Print commit history to file
+
+on: push
+
+jobs:
+  print:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Runs a single command using the runners shell
+    - name: Print to file
+      run: git log > CommitHistory.txt
