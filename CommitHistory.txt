@@ -1,5 +1,5 @@
-commit c9bd9e6378cf9bd44be41d6fc01ddd098bcb123f
+commit 74e514ba3daf5d508094dfc34edc79164dc6bb7b
 Author: Jacques Ophoff <j.ophoff@abertay.ac.uk>
-Date:   Wed Sep 15 14:31:33 2021 +0100
+Date:   Wed Sep 15 14:34:44 2021 +0100
 
-    Update CommitHistory.yml
+    Delete tmp.txt
